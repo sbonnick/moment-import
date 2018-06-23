@@ -3,7 +3,7 @@
   "main": "moment-import.html",
   "dependencies": {
     "moment-timezone": "^0.5.17",
-    "moment": "*",
+    "moment": "^2.22.2",
     "twix": "^1.2.1",
     "moment-weekday-calc": "^1.1.3"
   },
